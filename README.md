@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephj0697
 - 👀 I’m interested in Information Techology
 - 🌱 I’m currently learning Information Technology 
-- 💞️ I’m looking to collaborate on any Technology organizations or company
+- 💞️ I’m looking to collaborate on any Technology and Software organizations or company
 - 📫 How to reach me by my email address is josephj0697@gmail.com
 
 <!---
